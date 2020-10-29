@@ -1,0 +1,4 @@
+plain text
+to
+be 
+encrypted
